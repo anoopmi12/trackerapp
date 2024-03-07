@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Music Festival",
+      "location": "Central Park",
+      "entryType": "free",
+      "imageUrl": "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Enjoy live music performances from various artists in the beautiful setting of Central Park. This event is free for all attendees."
+    },
+    {
+      "id": 2,
+      "name": "Food Truck Festival",
+      "location": "Downtown Square",
+      "entryType": "paid",
+      "imageUrl": "https://images.pexels.com/photos/16077805/pexels-photo-16077805/free-photo-of-food-trucks-on-a-grass-field.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Indulge in a variety of delicious cuisines from food trucks gathered at Downtown Square. Admission requires a paid entry."
+    },
+    {
+      "id": 3,
+      "name": "Art Exhibition",
+      "location": "City Art Gallery",
+      "entryType": "free",
+      "imageUrl": "https://images.pexels.com/photos/700413/pexels-photo-700413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Explore breathtaking artworks by local and international artists at the City Art Gallery. Admission to this exhibition is free."
+    },
+    {
+      "id": 4,
+      "name": "Movie Night",
+      "location": "City Park",
+      "entryType": "free",
+      "imageUrl": "https://images.pexels.com/photos/3131971/pexels-photo-3131971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Experience outdoor movie screenings under the stars at City Park. Bring your blankets and snacks for a cozy movie night. Admission is free."
+    },
+    {
+      "id": 5,
+      "name": "Craft Fair",
+      "location": "Convention Center",
+      "entryType": "paid",
+      "imageUrl": "https://images.pexels.com/photos/15170521/pexels-photo-15170521/free-photo-of-stall-with-pottery-at-the-fair.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Browse through unique handmade crafts and artisanal products at the Craft Fair held at the Convention Center. Admission requires a paid entry."
+    },
+    {
+      "id": 6,
+      "name": "Book Launch",
+      "location": "Local Bookstore",
+      "entryType": "free",
+      "imageUrl": "https://images.pexels.com/photos/15937298/pexels-photo-15937298/free-photo-of-yellowed-pages-of-an-old-book-rolled-into-a-roll.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Join us for the launch of the latest bestselling book at the Local Bookstore. Meet the author and get your copy signed. Admission is free."
+    },
+    {
+      "id": 7,
+      "name": "Fashion Show",
+      "location": "Fashion Mall",
+      "entryType": "paid",
+      "imageUrl": "https://images.pexels.com/photos/262039/pexels-photo-262039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Experience the latest trends and designs at the Fashion Show hosted at Fashion Mall. Grab your front-row seats with a paid entry."
+    },
+    {
+      "id": 8,
+      "name": "Street Market",
+      "location": "City Streets",
+      "entryType": "free",
+      "imageUrl": "https://images.pexels.com/photos/1745747/pexels-photo-1745747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Discover a vibrant mix of local vendors and artisans at the Street Market located in the bustling City Streets. Admission is free."
+    },
+    {
+      "id": 9,
+      "name": "Live Concert",
+      "location": "Outdoor Arena",
+      "entryType": "paid",
+      "imageUrl": "https://images.pexels.com/photos/1306791/pexels-photo-1306791.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Get ready to rock out to your favorite bands at the Live Concert held at the Outdoor Arena. Secure your tickets for a memorable night of music."
+    },
+    {
+      "id": 10,
+      "name": "Outdoor Yoga",
+      "location": "Beach",
+      "entryType": "free",
+      "imageUrl": "https://images.pexels.com/photos/8940023/pexels-photo-8940023.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Unwind and rejuvenate with a serene session of outdoor yoga by the beach. All levels welcome. Bring your yoga mat and join us for free."
+    }
+  ]
+  
